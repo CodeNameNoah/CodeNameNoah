@@ -26,6 +26,6 @@
   Coming Soon!
 </details>
 <details>
-  <summary><b> ✨Click Here For Something Funny✨ goal</b></summary>
+  <summary><b> ✨Click Here For Something Funny✨</b></summary>
     <img src="https://media.tenor.com/U7onEi32XlIAAAAC/spongebob-development.gif" width="280px" align="center">
 </details>
