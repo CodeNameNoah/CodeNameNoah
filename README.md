@@ -14,15 +14,15 @@
 
 
 <details>
-  <summary><b> ✨CSS Works✨ goal</b></summary>
+  <summary><b> ✨CSS Achievements✨</b></summary>
   Coming Soon!
 </details>
 <details>
-  <summary><b> ✨HTML Works✨ goal</b></summary>
+  <summary><b> ✨HTML Achievements✨</b></summary>
   Coming Soon!
 </details>
 <details>
-  <summary><b> ✨JS Works✨ goal</b></summary>
+  <summary><b> ✨JS Achievements✨</b></summary>
   Coming Soon!
 </details>
 <details>
