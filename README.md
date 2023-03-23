@@ -10,3 +10,18 @@
     <br><br>:coffee: Interested in collaborating? :point_right: @ me on <a href="https://twitter.com/CodeNameNoahH">Twitter</a>
   </samp>
 </p>
+
+
+
+<details>
+  <summary><b> ✨CSS Works✨ goal</b></summary>
+  Coming Soon!
+</details>
+<details>
+  <summary><b> ✨HTML Works✨ goal</b></summary>
+  Coming Soon!
+</details>
+<details>
+  <summary><b> ✨JS Works✨ goal</b></summary>
+  Coming Soon!
+</details>
