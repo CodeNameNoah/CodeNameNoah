@@ -17,7 +17,12 @@
 
 <details>
   <summary><b> 🛠️Languages & Tools I Use🛠️ </b></summary>
-  Coming Soon!
+  * HTML
+  * CSS
+  * JavaScript
+  * BootStrap
+  * jQuery
+
 </details>
 <details>
   <summary><b> ✨More about me✨</b></summary>
