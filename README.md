@@ -21,6 +21,7 @@
   ⭐ CSS <br>
   ⭐ JavaScript <br> 
   ⭐ BootStrap <br>
+  ⭐ Materialize <br>
   ⭐ jQuery
 
 </details>
@@ -28,7 +29,7 @@
   <summary><b> ✨More about me✨</b></summary>
   🎓 Currently enrolled at UC Berkeley Extension's Full Stack Boot Camp</br>
 🔥 I have a burning passion for learning all types of coding I can get my hands on</br>
-💻comp I love PC building, infact I have built over 18 PCs for gaming, businesses, and personal use!</br>
+💻 I love PC building, infact I have built over 18 PCs for gaming, businesses, and personal use!</br>
 🎮 I'm an enthusiastic Minecrafter! A proud 12 year veteran 😤💪</br>
 🧗‍♂️ Hobbies: I work on sport cars with my dad and I also sport climb. I can tower a 38 ft. wall in 7.12 seconds! </br>
 </details>
