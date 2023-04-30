@@ -7,7 +7,7 @@
     💻: Hi I am currently unemployed!
     <br>I just started learning Web Programming in March of 2023!
       <br>I know I have a long way to go and will remain eager to learn
-    <br>⭐ From now to June 12th I am a master coder in the making ⭐<br><br>
+    <br>⭐ From March 20th to June 12th I am a master coder in the making ⭐<br><br>
     <img src="https://media.tenor.com/tWD3GjJcoHgAAAAC/spongebob-computer.gif" width="280px" align="center">
     <br><br>:coffee: Interested in collaborating? :point_right: ✉ me at <a href="mailto:hoincbusiness@gmail.com">Hoincbusiness@gmail.com</a>
   </samp>
@@ -23,6 +23,11 @@
   ⭐ BootStrap <br>
   ⭐ Materialize <br>
   ⭐ jQuery
+  ⭐ Nodejs
+  ⭐ Express
+  ⭐ NPM
+  ⭐ Jest
+  ⭐ Insomnia
 
 </details>
 <details>
