@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Noah Hoang
+<p align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Noah Hoang</p>
 
 <p align="center">
   <img src="[spongebob coding gifhttps://media.tenor.com/tWD3GjJcoHgAAAAC/spongebob-computer.gif](https://media.tenor.com/tWD3GjJcoHgAAAAC/spongebob-computer.gif)" width="27px">
