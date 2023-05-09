@@ -5,7 +5,7 @@
   <br><br>
   <samp>
     💻: Hi I am currently unemployed!
-    <br>I just started learning Web Programming in March of 2023!
+    <br>I just started learning Full Stack Developing in March of 2023!
       <br>I know I have a long way to go and will remain eager to learn
     <br>⭐ From March 20th to June 12th I am a master coder in the making ⭐<br><br>
     <img src="https://media.tenor.com/tWD3GjJcoHgAAAAC/spongebob-computer.gif" width="280px" align="center">
@@ -21,13 +21,16 @@
   ⭐ CSS <br>
   ⭐ JavaScript <br> 
   ⭐ BootStrap <br>
+  ⭐ Bulma
   ⭐ Materialize <br>
   ⭐ jQuery
   ⭐ Nodejs
-  ⭐ Express
+  ⭐ Expressjs
   ⭐ NPM
   ⭐ Jest
   ⭐ Insomnia
+  ⭐ MySQL
+  ⭐ Heroku
 
 </details>
 <details>
