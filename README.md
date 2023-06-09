@@ -10,6 +10,7 @@
     <br>⭐ From March 20th to June 12th I am a master coder in the making ⭐<br><br>
     <img src="https://media.tenor.com/tWD3GjJcoHgAAAAC/spongebob-computer.gif" width="280px" align="center">
     <br><br>:coffee: Interested in collaborating? :point_right: ✉ me at <a href="mailto:hoincbusiness@gmail.com">Hoincbusiness@gmail.com</a>
+    <br><br>:coffe: Want to support me? Buy me a coffee (ˉ﹃ˉ) <a href="https://mytipjar.herokuapp.com/?address=0x7D693B938fB19aa62E1979e5534cb32B32B6E0F6">TipJar</a>
   </samp>
 </p>
 
