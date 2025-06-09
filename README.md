@@ -4,7 +4,7 @@
   <img src="[spongebob coding gifhttps://media.tenor.com/tWD3GjJcoHgAAAAC/spongebob-computer.gif](https://media.tenor.com/tWD3GjJcoHgAAAAC/spongebob-computer.gif)" width="27px">
   <br><br>
   <samp>
-    💻: Hi I am currently unemployed!
+    💻: Hi there!
     <br>I just started learning Full Stack Developing in March of 2023!
       <br>I know I have a long way to go and will remain eager to learn
     <br>⭐ From March 20th to June 12th I am a master coder in the making ⭐<br><br>
